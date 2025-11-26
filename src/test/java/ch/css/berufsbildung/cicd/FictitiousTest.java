@@ -26,4 +26,14 @@ public class FictitiousTest {
         assertThat(actual).isEqualTo(expected);
     }
 
+    @Test
+    @Disabled
+    void wowi() {
+        final int expected = 1;
+
+        final int actual = 1;
+
+        assertThat(actual).isEqualTo(expected);
+    }
+
 }
