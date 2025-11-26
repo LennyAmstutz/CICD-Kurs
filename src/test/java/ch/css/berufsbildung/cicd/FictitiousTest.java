@@ -17,7 +17,6 @@ public class FictitiousTest {
     }
 
     @Test
-    @Disabled
     void test_sad() {
         final int expected = 2;
 
